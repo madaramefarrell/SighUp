@@ -1,3 +1,3 @@
 # SighUp
 
-Practise auto create account
+Use CasperJs to auto create account&do operation
